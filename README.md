@@ -1,7 +1,7 @@
 # STAR TREK API
 App allows you to create, update and delete entries. Practicing all the CRUD principles. 
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+
 
 <img src="/public/images/starTrekReadmeImg.png" alt="">
 
