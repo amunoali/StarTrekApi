@@ -24,10 +24,10 @@ App allows you to create, update and delete entries. Practicing all the CRUD pri
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-**Palettable:** https://github.com/amunoali/BMICalc
+**BMI Calculator:** https://github.com/amunoali/BMICalc
 
-**Twitter Battle:** https://github.com/amunoali/portfolio
+**Portfolio:** https://github.com/amunoali/portfolio
 
-**Patch Panel:** https://github.com/amunoali/DrumKit
+**Drum Kit:** https://github.com/amunoali/DrumKit
 
 
