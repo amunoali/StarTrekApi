@@ -1,0 +1,34 @@
+
+input, textarea{
+    display: block;
+    border-radius: 5px;
+    padding: 8px 7px;
+    margin: 9px 0px;
+}
+section.row{
+    display: flex;
+    justify-content: flex-start;
+    align-content: flex-start;
+    padding: 1rem 2rem;
+}
+section.column{
+    padding: 0rem 15rem;
+}
+
+h2{
+    margin-top: 2rem;
+}
+ul{
+    text-align: left;
+    list-style: none;
+    padding: 1px 0rem;
+}
+button{
+    border: 2px solid red;
+    padding: 7px 12px;
+    background: red;
+    color: #fff;
+}
+button:hover{
+    background-color: pink;
+}
